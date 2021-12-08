@@ -4,3 +4,5 @@ Cryptocurrencies typically use decentralized control as opposed to a central ban
 The cryptocurrency market is now worth more than $3 trillion. It is growing up strongly with new applications. We will offer secure-wallet solutions to prevent attacks post quantum computer and now. 
 
 I created Qunicorn (QUNI) Token for Wallet in ERC20, Here is testnet link https://kovan.etherscan.io/address/0x3d1766BAFD638c8Bfb45DfF563d7858EAE315C37 .I will soon move project to mainnet. (Due to gas fees wait for deployment)
+
+Here is scientific paper behind the project : https://arxiv.org/abs/1902.05214 (Smart Contracts meets quantum Cryptography 
