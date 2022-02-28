@@ -22,5 +22,5 @@ Advantages:
 
 Here is scientific paper behind the project : https://arxiv.org/abs/1902.05214 ( Smart Contracts meets quantum Cryptography ). Whitepaper of the project will be added soon.
 
-Currently project is open to collaborate with the people, teams and communities. We consider Qunicorn (qunicorn.co.uk) wallet 
+Currently project is open to collaborate with the people, teams and communities. We consider Qunicorn (https://qunicorn.co.uk/projects) wallet 
 as public good for future of the data security. We are applying for grants and looking for investors to put product the market. 
