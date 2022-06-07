@@ -31,4 +31,4 @@ Here is scientific paper inspired the project : A Quantum Money Solution to the 
 2020, Andrea Coladangelo and Or Sattath. Whitepaper of the project under technical writings.
 
 Currently project is open to collaborate with the people, teams and communities. We consider Qunicorn (https://qunicorn.co.uk/projects) wallet 
-as public good for future of the data security. We are applying for grants and looking for investors to support our research and help us launch the product the market in upcoming years.
+as public good for future of the data security. We are applying for grants and looking for investors to support our research and help us launch product the market in upcoming years.
